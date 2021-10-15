@@ -1,0 +1,30 @@
+{
+    "$schema": "https://raw.githubusercontent.com/MaayanLab/appyter-catalog/master/schema/appyter-validator.json",
+    "name": "Xalign",
+    "title": "Alignment Appyter",
+    "version": "0.0.5",
+    "description": "An appyter that alignes FASTQ files to a reference species of choice.",
+    "image": "featured-image.png",
+    "authors": [
+      {
+        "name": "Alexander Lachmann",
+        "email": "alexander.lachmann@mssm.edu"
+      }
+    ],
+    "url": "https://github.com/MaayanLab/appyter-catalog",
+    "tags": [
+      "FASTQ",
+      "Alignment",
+      "Ensembl",
+      "RNA-seq"
+    ],
+    "license": "CC-BY-NC-SA-4.0",
+    "appyter": {
+      "file": "Xalign.ipynb",
+      "profile": "biojupies",
+      "extras": [
+        "toc",
+        "toggle-code"
+      ]
+    }
+  }
