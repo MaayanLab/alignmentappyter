@@ -24,7 +24,8 @@
       "profile": "biojupies",
       "extras": [
         "toc",
-        "toggle-code"
+        "toggle-code",
+        "storage-file-field"
       ]
     }
   }
